@@ -4,7 +4,7 @@ Patched app is an APK file of Minecraft that includes the [MaterialBinLoader](ht
 With MaterialBinLoader, you can easily apply or remove any compatible RenderDragon shader pack, from a resource pack.  
 
 >[!NOTE]
-> Check if your phone is **32-bit** or **64-bit**.  
+> Check if your phone is **64-bit**.  
 > If the APK's name contains `arm64`, it means it supports **64-bit**, and if it contains `arm32`, it means it supports **32-bit**. Or if it contains `arm32_arm64`, it means it supports **both**.<br>
 > You can use [64Bit Checker](https://play.google.com/store/apps/details?id=com.danielpolish.a64bitchecker) to see which one your phone supports.
 > 
